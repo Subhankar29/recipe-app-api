@@ -10,5 +10,5 @@ This is a simple Django application named Recipe that allows users to manage rec
     * API endpoint for users to create new recipes.
     * Ability to link ingredients to a recipe.
     * Ability to assign tags to a recipe.
-* **Recipe Management:**
+* **Docker container:**
     * Containerized the project using Docker 
